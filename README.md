@@ -57,7 +57,7 @@ Install the following libraries using the **Arduino IDE Library Manager**:
 
 1. Download or clone this repository.
 2. Extract the ZIP file (if downloaded).
-3. Open the `proposal_animation.ino` file from the project folder.
+3. Open the `love-proposal.ino` file from the project folder.
 4. Arduino IDE will automatically load all required project files.
 5. Install the required libraries.
 6. Select your ESP32 board and COM port.
