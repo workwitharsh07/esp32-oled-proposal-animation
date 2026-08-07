@@ -67,7 +67,7 @@ Install the following libraries using the **Arduino IDE Library Manager**:
 
 ## 💻 Source Code
 
-The complete Arduino sketch is available in **proposal_animation.ino**.
+The complete Arduino sketch is available in **love-proposal.ino**.
 
 ---
 
