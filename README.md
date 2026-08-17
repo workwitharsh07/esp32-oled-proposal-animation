@@ -1,6 +1,6 @@
 # 💍 ESP32 OLED Proposal Animation
 
-Display a cinematic **marriage proposal animation** on a **128×64 SSD1306 OLED** using an ESP32. This project demonstrates I²C communication, bitmap rendering, smooth animations, and text effects with the Arduino framework.
+Display a cinematic **marriage proposal animation** on a **128×64 SSD1306 OLED** using an ESP32. This project demonstrates I²C communication, bitmap rendering, smooth animations, and text effects with the ESP32 framework.
 
 ---
 
